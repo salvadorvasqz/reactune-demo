@@ -17,7 +17,7 @@
     "astro": "^5.13.8",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "reactune": "^1.0.0",
+    "reactune": "^1.0.1",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {

@@ -4,11 +4,11 @@
 
 ![Website Preview](./public/reactune.png)
 
-[Live Website](https://salvadorvasqz.github.io/reactune-demo/)
+<a href="https://salvadorvasqz.github.io/reactune-demo/" target="_blank">Live Website</a>
 
 ## Overview
 
-This project is a demo built with [Astro](https://astro.build/), integrating React components and styled using [Tailwind CSS](https://tailwindcss.com/). It demonstrates a simple site structure with custom components, layouts, and static assets.
+This project is a demo built with <a href="https://astro.build/" target="_blank">Astro</a>, integrating React components and styled using <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>. It demonstrates a simple site structure with custom components, layouts, and static assets.
 
 ## Project Structure
 
