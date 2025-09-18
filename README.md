@@ -2,6 +2,8 @@
 
 # Reactune Demo
 
+![Website Preview](./public/preview.png)
+
 [Live Website](https://salvadorvasqz.github.io/reactune-demo/)
 
 ## Overview
