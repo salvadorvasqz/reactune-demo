@@ -1,5 +1,5 @@
 import { ReactuneVideo } from "reactune";
 
 export const ReactuneComponent = () => (
-  <ReactuneVideo src="/videos/demo.mp4" muted={false} />
+  <ReactuneVideo src="/reactune-demo/videos/demo.mp4" muted={false} />
 );
