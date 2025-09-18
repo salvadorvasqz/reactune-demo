@@ -2,7 +2,7 @@
 
 # Reactune Demo
 
-![Website Preview](./public/preview.png)
+![Website Preview](./public/reactune.png)
 
 [Live Website](https://salvadorvasqz.github.io/reactune-demo/)
 
