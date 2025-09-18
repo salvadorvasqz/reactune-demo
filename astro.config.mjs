@@ -4,9 +4,11 @@ import tailwindcss from "@tailwindcss/vite";
 
 import react from "@astrojs/react";
 
+const isProd = process.env.NODE_ENV === "production";
+
 export default defineConfig({
-  site: 'https://salvadorvasqz.github.io',
-  base: "/reactune-demo/",
+  site: isProd ? "https://salvadorvasqz.github.io" : undefined,
+  base: isProd ? "/reactune-demo/" : "/",
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
